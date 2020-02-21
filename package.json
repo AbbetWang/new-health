@@ -1,0 +1,24 @@
+{
+  "name": "new-health",
+  "version": "1.0.0",
+  "description": "next project",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "pull": "git push origin dev:develop"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbbetWang/new-health.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbbetWang/new-health/issues"
+  },
+  "homepage": "https://github.com/AbbetWang/new-health#readme"
+}
