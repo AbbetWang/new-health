@@ -4,11 +4,12 @@
   "description": "next project",
   "main": "index.js",
   "directories": {
-    "test": "test",
-    "pull": "git push origin dev:develop"
+    "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pull": "git push origin dev:develop"
+
   },
   "repository": {
     "type": "git",
