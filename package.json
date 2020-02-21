@@ -9,7 +9,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "pull": "git push origin dev:develop"
-
   },
   "repository": {
     "type": "git",
@@ -21,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AbbetWang/new-health/issues"
   },
-  "homepage": "https://github.com/AbbetWang/new-health#readme"
+  "homepage": "https://github.com/AbbetWang/new-health#readme",
+  "dependencies": {
+    "koa": "^2.11.0"
+  }
 }
